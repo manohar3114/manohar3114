@@ -8,16 +8,3 @@
 manohar3114/manohar3114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-Connect with me:
-manohar tenneti
-
-Languages and Tools:
-babel bash bootstrap c css3 python express git html5 javascript linux mongodb mysql nodejs react redux
-
-GitHub Stats :
-kiran
-
- gottumukkalakiran
-
-gottumukkalakiran
